@@ -1,0 +1,19 @@
+{
+    "name": "sublime_core",
+    "version": "1.0.0",
+    "description": "",
+    "main": "",
+    "keywords": [
+      "altmp",
+      "altv",
+      "node",
+      "node-module",
+      "js-module",
+      "gta",
+      "gta5",
+      "gtav"
+    ],
+    "author": "SUP2Ak",
+    "license": "GNU",
+    "type": "module"
+  }
